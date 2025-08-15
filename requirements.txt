@@ -1,6 +1,11 @@
+setuptools>=65.0
+wheel
+cython
 Flask==2.3.2
 gunicorn==21.2.0
 pandas==2.0.3
 numpy==2.1.3
 scikit-learn==1.3.0
 joblib==1.3.2
+
+
